@@ -72,6 +72,6 @@
 
 ## Əlaqə və Geri Bildiriş
 
-Bu Beta versiya ilə bağlı hər hansı bir təklifiniz, iradınız və ya qarşılaşdığınız xətalar barədə məlumat vermək üçün [Bura öz əlaqə vasitənizi yaza bilərsiniz, məsələn, e-mail ünvanı və ya GitHub səhifəsi].
+Bu Beta versiya ilə bağlı hər hansı bir təklifiniz, iradınız və ya qarşılaşdığınız xətalar barədə məlumat vermək üçün ruhidjavadoff@gmail.com.
 
 Geri bildirişləriniz proqramın daha da yaxşılaşdırılmasına kömək edəcək!
